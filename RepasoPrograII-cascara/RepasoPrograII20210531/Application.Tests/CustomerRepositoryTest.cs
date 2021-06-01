@@ -46,8 +46,8 @@ namespace Application.Tests
         public void GetAllTest()
         {
             //Arrange
-            CustomerRepository target = null; // TODO: Inicializar de manera apropiada
-            List<Customer> expected = null; // TODO: Inicializar de manera apropiada
+            CustomerRepository target = new CustomerRepository(); // TODO: Inicializar de manera apropiada
+            List<Customer> expected = new List<Customer>(); // TODO: Inicializar de manera apropiada
             List<Customer> actual;
 
             //Act
@@ -64,7 +64,7 @@ namespace Application.Tests
         public void GetByIdTest()
         {
             //Arrange
-            CustomerRepository target = null; // TODO: Inicializar de manera apropiada
+            CustomerRepository target = new CustomerRepository(); // TODO: Inicializar de manera apropiada
             long entityId = 1;
             Customer expected = null; // TODO: Inicializar de manera apropiada 
             Customer actual;

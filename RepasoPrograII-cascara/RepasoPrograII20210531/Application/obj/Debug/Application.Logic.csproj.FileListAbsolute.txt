@@ -67,3 +67,16 @@ C:\Users\Usuario\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Applicati
 C:\Users\Usuario\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
 C:\Users\Usuario\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.dll
 C:\Users\Usuario\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Files.dll
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Files.pdb
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\Usuario\Desktop\Ejercicio44.AntonioBentosela\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.pdb

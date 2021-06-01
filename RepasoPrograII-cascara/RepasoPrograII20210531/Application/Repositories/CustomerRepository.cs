@@ -91,19 +91,26 @@ namespace Application.Repositories
         public override void Remove(Customer entity)
         {
             // TODO: implementar
-            foreach (Customer customer in customers)
+            if (customers.Contains(entity)) 
             {
-                if (customer == entity)
-                {
-                    customers.Remove(customer);
-                }
+                customers.Remove(entity);
             }
         }
 
         public override void Update(Customer entity)
         {
             // TODO: implementar
-            
+
+            foreach (Customer customer in customers)
+            {
+                if (customer.Id == entity.Id)
+                {
+                    customer.Name = entity.Name;
+                    customer.LastName = entity.LastName;
+                    customer.Age = entity.Age;
+                }
+            }
+
         }
 
         public List<Customer> LoadFromFile(string path)
